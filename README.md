@@ -1,1 +1,1 @@
-![Bruce's GitHub stats](https://github-readme-stats.vercel.app/api?username=tong-ge)
+![最常用的语言](https://github-readme-stats.vercel.app/api/top-langs/?username=tong-ge&langs_count=10)
